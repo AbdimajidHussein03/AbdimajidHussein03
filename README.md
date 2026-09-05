@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdimajid Hussein</h1>
+<h1 align="center">Hi 👋, I'm Abdimajid </h1>
 
 <h3 align="center">
 DevOps / Platform Engineer | AWS • Kubernetes • Terraform • CI/CD
@@ -53,6 +53,13 @@ Hands-on with **Terraform, Docker, Kubernetes, CI/CD, GitOps and observability**
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+### Scripting
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
 ### Observability & Security
