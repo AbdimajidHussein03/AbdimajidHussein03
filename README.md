@@ -27,22 +27,6 @@ Hands-on with **Terraform, Docker, Kubernetes, CI/CD, GitOps and observability**
 
 ---
 
-## Featured Projects
-
-### Snipe-IT on Amazon ECS Fargate
-
-Deployed a containerised **Snipe-IT** application on AWS ECS Fargate with Infrastructure as Code and automated delivery.
-
-- Provisioned AWS infrastructure with **Terraform**, including VPC networking, ALB, RDS, ECR, Route 53 and ACM
-- Built **GitHub Actions CI/CD pipelines** for infrastructure and application deployments using AWS OIDC
-- Designed a secure container architecture using private networking, HTTPS and managed database infrastructure
-
-**`AWS` · `ECS Fargate` · `Terraform` · `Docker` · `GitHub Actions` · `RDS` · `ECR`**
-
-[**View Project →**](https://github.com/AbdimajidHussein03/ecs-project)
-
----
-
 ## Tech Stack
 
 ### Cloud & Infrastructure
@@ -82,12 +66,19 @@ Deployed a containerised **Snipe-IT** application on AWS ECS Fargate with Infras
 
 ---
 
-## GitHub Activity
+## Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdimajidHussein03&show_icons=true&hide_border=true&theme=github_dark" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdimajidHussein03&layout=compact&hide_border=true&theme=github_dark" height="165" />
-</p>
+### Snipe-IT on Amazon ECS Fargate
+
+Deployed a containerised **Snipe-IT** application on AWS ECS Fargate with Infrastructure as Code and automated delivery.
+
+- Provisioned AWS infrastructure with **Terraform**, including VPC networking, ALB, RDS, ECR, Route 53 and ACM
+- Built **GitHub Actions CI/CD pipelines** for infrastructure and application deployments using AWS OIDC
+- Designed a secure container architecture using private networking, HTTPS and managed database infrastructure
+
+**`AWS` · `ECS Fargate` · `Terraform` · `Docker` · `GitHub Actions` · `RDS` · `ECR`**
+
+[**View Project →**](https://github.com/AbdimajidHussein03/ecs-project)
 
 ---
 
