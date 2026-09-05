@@ -9,37 +9,39 @@ Building cloud infrastructure, automated delivery pipelines and containerised pl
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdimajidhussein03/">LinkedIn</a>
-  •
-  <a href="mailto:abdimajid819@gmail.com">Email</a>
-  •
-  <a href="https://github.com/AbdimajidHussein03">GitHub</a>
+  <a href="https://www.linkedin.com/in/abdimajidhussein03/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:abdimajid819@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## About Me
 
-I'm a DevOps / Platform Engineer with a Computer Science degree and a strong focus on building cloud infrastructure and automated delivery platforms on AWS.
+DevOps / Platform Engineer with a **Computer Science degree**, focused on building and automating cloud infrastructure on AWS.
 
-My hands-on projects span Infrastructure as Code, container orchestration, CI/CD, GitOps, cloud networking, security and observability.
+Hands-on with **Terraform, Docker, Kubernetes, CI/CD, GitOps and observability**, with projects covering the journey from infrastructure provisioning to deployment and monitoring.
 
-I enjoy taking applications from source code to running cloud infrastructure — automating the infrastructure, deployment, security and monitoring around them.
+---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### ☁️ Snipe-IT on Amazon ECS Fargate
+### Snipe-IT on Amazon ECS Fargate
 
-Deployed a containerised Snipe-IT application on AWS ECS Fargate, building the underlying cloud infrastructure and automated delivery pipeline from the ground up.
+Deployed a containerised **Snipe-IT** application on AWS ECS Fargate with Infrastructure as Code and automated delivery.
 
 - Provisioned AWS infrastructure with **Terraform**, including VPC networking, ALB, RDS, ECR, Route 53 and ACM
-- Built **GitHub Actions CI/CD pipelines** for automated infrastructure and application deployments using AWS OIDC
+- Built **GitHub Actions CI/CD pipelines** for infrastructure and application deployments using AWS OIDC
 - Designed a secure container architecture using private networking, HTTPS and managed database infrastructure
 
 **`AWS` · `ECS Fargate` · `Terraform` · `Docker` · `GitHub Actions` · `RDS` · `ECR`**
 
 [**View Project →**](https://github.com/AbdimajidHussein03/ecs-project)
 
+---
 
 ## Tech Stack
 
@@ -66,22 +68,16 @@ Deployed a containerised Snipe-IT application on AWS ECS Fargate, building the u
 <p>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-### Observability
+### Observability & Security
 
 <p>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-</p>
-
-### Networking & Security
-
-<p>
   <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Checkov-4C35E0?style=for-the-badge&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white" />
 </p>
 
 ---
@@ -89,14 +85,21 @@ Deployed a containerised Snipe-IT application on AWS ECS Fargate, building the u
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdimajidHussein03&show_icons=true&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdimajidHussein03&layout=compact&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdimajidHussein03&show_icons=true&hide_border=true&theme=github_dark" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdimajidHussein03&layout=compact&hide_border=true&theme=github_dark" height="165" />
 </p>
-
 
 ---
 
-## Connect With Me
+## Let's Connect
 
-- LinkedIn: [linkedin.com/in/abdimajidhussein03](https://www.linkedin.com/in/abdimajidhussein03/)
-- Email: [abdimajid819@gmail.com](mailto:abdimajid819@gmail.com)
+I'm open to opportunities in **DevOps, Platform Engineering and Cloud Engineering**.
+
+<p>
+  <a href="https://www.linkedin.com/in/abdimajidhussein03/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:abdimajid819@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
