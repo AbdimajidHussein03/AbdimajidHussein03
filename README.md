@@ -75,6 +75,23 @@ Hands-on with **Terraform, Docker, Kubernetes, CI/CD, GitOps and observability**
 
 ## Featured Projects
 
+### Production-Style Platform on Amazon EKS
+
+Built an end-to-end Kubernetes platform on **Amazon EKS**, combining Infrastructure as Code, CI/CD, GitOps, security scanning and observability.
+
+- Provisioned the AWS and EKS infrastructure using **Terraform**
+- Deployed and managed Kubernetes workloads using **Helm**
+- Implemented **GitOps deployments with Argo CD**
+- Built automated **GitHub Actions CI/CD pipelines**
+- Added container vulnerability scanning with **Trivy**
+- Implemented monitoring and dashboards using **Prometheus and Grafana**
+
+**`AWS` · `Amazon EKS` · `Kubernetes` · `Terraform` · `Helm` · `Argo CD` · `GitHub Actions` · `Prometheus` · `Grafana` · `Trivy`**
+
+[**View Project →**](https://github.com/AbdimajidHussein03/eks-project)
+
+---
+
 ### Snipe-IT on Amazon ECS Fargate
 
 Deployed a containerised **Snipe-IT** application on AWS ECS Fargate with Infrastructure as Code and automated delivery.
